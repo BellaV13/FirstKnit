@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Bella Verdin"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I attended Quartz Hill High School and yes I graduated. I would say that math is easier for me. I mostly did better in my math classes. 
 
      
 
@@ -27,7 +27,8 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   My device is a apple ipad, On a scale of 1-10 I would say Im at a 6. I do have internet access at home and it's good enough. 
+  
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
